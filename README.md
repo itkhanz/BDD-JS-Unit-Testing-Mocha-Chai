@@ -1,5 +1,13 @@
 # JavaScript Unit Testing with Mocha and Chai | BDD
 
+## Resources
+
+-   [Chai assertion library](https://www.chaijs.com/api/bdd/)
+-   [Mocha test framework](https://mochajs.org/)
+-   [Javascript Unit Testing and BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
+
+## Initializing the libaries
+
 -   Run the `npm init -y` to setup a basic project template.
 -   Run the `npm install --save-dev mocha chai` to insall the them as development dependencies.
 -   You can run any test file with the `mocha <filename>` command in console.
