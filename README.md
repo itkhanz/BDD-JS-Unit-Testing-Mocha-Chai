@@ -27,3 +27,15 @@ Each player places ships randomly in their own grid, and try to guess the positi
 4. Status as active or sunk
 
 We will use BDD to breakdown all of the requirements into small chunks.
+
+---
+
+## Topics Covered
+
+-   Assertions
+-   Setup and Teardown
+-   Throwing Errors
+-   Mocha reporters
+-   Mocha watcher
+-   Mocks and Stubs
+-   Testing asynchronus code
